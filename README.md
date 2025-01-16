@@ -7,12 +7,12 @@ Additionally, it implements Authentication and Authorization to ensure secure ac
 ## Installation
 
 1. Clone the repo:
+   ```
    git clone https://github.com/ahmedwagdy-ai/E-Commerce-Web-API
-   ```
 2. Install dependencies:
-   npm install
    ```
-
+   npm install
+   
 ## Usage
-
+```
 npm start
